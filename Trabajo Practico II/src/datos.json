@@ -1,0 +1,5 @@
+[{"email":"matiMail","clave":"12345","nombre":"Matias","apellido":"Palmieri","telefono":"55","tipo":"user"},
+    {"email":"asd","clave":"asd","nombre":"asd","apellido":"asd","telefono":"asd","tipo":"user"},
+    {"email":"pepe","clave":"pepe","nombre":"pepe","apellido":"pepe","telefono":"123","tipo":"admin"},
+    {"email":"jjj","clave":"jjj","nombre":"jj","apellido":"jjjj","telefono":"jjj","tipo":"user"},
+    {"email":"JuanRomanMail","clave":"101010","nombre":"Juan Roman","apellido":"Riquelme","telefono":"101010","tipo":"admin"}]
